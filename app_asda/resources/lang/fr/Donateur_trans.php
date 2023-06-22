@@ -1,0 +1,30 @@
+<?php
+
+return [
+
+    'add_Donateur' => 'Ajouter un donateur',
+    'edit_Donateur' => 'Modifier le donateur',
+    'Step1' => 'Informations sur les donateurs',
+    'List_Donateurs' => 'Informations sur les donateurs',
+    'Step3' => 'Pièces jointes et confirmation des informations',
+    'Email' => 'E-mail',
+    'Password' => 'Mot de passe',
+    'Name_Donateur' => 'Nom du donateur en arabe',
+    'Name' => 'Nom du donateur',
+    'Name_Donateur_en' => 'Nom du donateur en français',
+    'show_Donateurs' => 'Informations sur le donateur',
+    'Phone_Donateur' => 'Numéro de téléphone',
+    'Religion_Donateur_id' => 'Religion',
+    'Address_Donateurs' => 'Adresse des donateurs',
+    'Address_Donateur' => 'Adresse du donateur',
+    'gender' => 'Genre',
+    'Next' => 'Suivant',
+    'Back' => 'Précédent',
+    'Finish' => 'Confirmer',
+    'Choose' => 'Choisir dans la liste',
+    'Attachments' => 'Pièces jointes',
+    'Processes' => 'Processus',
+    'Informations_donateurs' => 'Informations sur les donateurs',
+    'Les_dons'=>'Les dons',
+'Ajouter_don'=>'Ajouter un don',
+];
